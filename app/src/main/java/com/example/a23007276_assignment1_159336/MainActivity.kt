@@ -2,7 +2,7 @@ package com.example.a23007276_assignment1_159336
 // Archibald Po
 //dhairya rathod
 //23007276
-// hello
+// hello my name is arno
 import android.Manifest
 import android.content.Intent
 import android.content.pm.PackageManager
